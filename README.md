@@ -1,9 +1,10 @@
 # Loan-Prediction-
 
-##Introduction about the Data
+## Introduction about the Data
+
 This is a comprehensive dataset of modern day, having record of Loan_ID, Gender, Married, Dependents, Education, Self_Employed, ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History, Property_Area, Loan_Status.The dataset contains 614 rows and 13 columns.
 
-##Tool Used
+## Tool Used
 
 Python jupyter notebook.
 
@@ -21,7 +22,7 @@ Train Test split
 
 Confusion matrix
 
-##content
+## content
 
 importing data
 
